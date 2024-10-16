@@ -1,0 +1,3 @@
+para abrir la carpeta de ejercicios en el navegador a modo localhost hay que tener el contenedor apache en el docker
+abierto, la carpeta de ejercicios tiene que estar dentro de esa carpeta para que se puedan ver los ejercicios resuetos 
+en el navegador
